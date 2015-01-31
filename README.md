@@ -1,2 +1,1 @@
-# flux
-Test environment for flux apps
+Playground for flux apps
